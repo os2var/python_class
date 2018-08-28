@@ -1,0 +1,12 @@
+#Ejercicio menu calculadora
+import os # Importar librerias del sistema
+
+os.system("cls")
+n1= int(input("ingrese el primer numero:"))
+n2= int(input("ingrese el segundo numero:"))
+if opc== n1>n2 :
+		print("El numero mayor es:",n2)
+elif opc == 2:
+	resta=num1 - num2
+	print("La resta es:",resta)
+
