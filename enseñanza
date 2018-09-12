@@ -1,0 +1,7 @@
+if i<intentos:
+print("clave incorrecta.digite nuevamente ")
+else:
+print("usted no tiene mas intentos.su tarjeta a sido bloqueada")
+i=i+1
+
+
