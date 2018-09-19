@@ -72,5 +72,7 @@ print ("______________________________________________________________________")
 print ("| Edad: ", age)
 print ("| Tasa de interes: ", porc_interes)
 print ("| Total credito ($): ", total_credito)
-print ("| Probabilidad de prestamo: ", probabilidad)  
+print ("| Probabilidad de prestamo: ", probabilidad)
+print "| Monto solicitado ($): ", valor
+print "| Total intereses ($): ", interes * cuotas         
     
