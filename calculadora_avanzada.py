@@ -10,14 +10,14 @@ def operaciones():
     if opc==1:
         print("El resultado es:",a+b)
     elif opc==2:
-        print("el resultado es:",a-b)
+        print("el diferencia es:",a-b)
     elif opc==3:
-        print("el resultado es:",a*b)
+        print("el producto es:",a*b)
     elif opc==4:
-        print("la resultado es:",a/b)        
+        print("la cociente es:",a/b)        
     if opc==5:
-        print("la raiz cuadrada de a es:",a**(0.5))
-        print("la raiz cuadrada de b es:",b**(0.5))
+        print("la raiz cuadrada de", a, "es:",a**(0.5))
+        print("la raiz cuadrada de", b, "es:",b**(0.5))
 def DATOS ():
     global a,b
     a=int(input("Digite a:"))
